@@ -1,0 +1,22 @@
+{
+  "name": "mqqt_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasDenneulin/mqqt_server.git"
+  },
+  "author": "Thomas Denneulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasDenneulin/mqqt_server/issues"
+  },
+  "homepage": "https://github.com/ThomasDenneulin/mqqt_server#readme",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
+}
